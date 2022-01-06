@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# misc
+*.log
+.DS_Store
+
+# IntelliJ
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/
+*.iml
+modules.xml
+*.ipr
+*.iws
+
